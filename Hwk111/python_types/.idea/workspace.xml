@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="217536ee-3077-4efa-a32b-23ecda34a13d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ProjectId" id="1jl9XO9mAEy0PwGrIEmgIQgf2rr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tictactoe">
     <configuration name="SB_5410_Hwk4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_types" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -26,10 +38,67 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_types" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/tictactoe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tictactoe" />
         <item itemvalue="Python.SB_5410_Hwk4.2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="217536ee-3077-4efa-a32b-23ecda34a13d" name="Default Changelist" comment="" />
+      <created>1604367849740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604367849740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="245" key="GridCell.Tab.0.bottom" timestamp="1604459377566">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1286" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1604419529641" />
+    <state width="1286" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1604459377566" />
+    <state width="1286" height="245" key="GridCell.Tab.0.center" timestamp="1604459377565">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1286" height="245" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1604419529641" />
+    <state width="1286" height="245" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1604459377565" />
+    <state width="1286" height="245" key="GridCell.Tab.0.left" timestamp="1604459377565">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1286" height="245" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1604419529641" />
+    <state width="1286" height="245" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1604459377565" />
+    <state width="1286" height="245" key="GridCell.Tab.0.right" timestamp="1604459377566">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state width="1286" height="245" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1604419529641" />
+    <state width="1286" height="245" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1604459377566" />
   </component>
 </project>
